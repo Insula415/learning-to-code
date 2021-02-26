@@ -1,7 +1,7 @@
 # Coding resources
 Here are a few coding resources and guidance to kickstart your coding journey!
 
-# Coding websites to learn / test skills:
+# Coding websites to learn / test your skills:
 
 <li><a href="https://www.w3schools.com/">W3Schools</a></li>
 <li><a href="https://www.freecodecamp.org/">Free Code Camp</a></li>
