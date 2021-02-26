@@ -30,6 +30,27 @@ Here are a few coding resources and guidance to kickstart your coding journey!
 <li><a href="https://www.youtube.com/channel/UCXgGY0wkgOzynnHvSEVmE3A">Hitesh Choudhary</a></li>
 <li><a href="https://www.youtube.com/user/derekbanas">Derek Banas</a></li>
 
+# Coding commands:
+You are going to be using the command prompt a lot, here are a few useful commands:
+
+<h3>cd</h3>
+<p><code>cd</code> switches into a directory <br> Usage: <code>cd /Desktop/example/</code></p>
+<h3>ls</h3>
+<p><code>ls</code> prints the current files in the current directory</p>
+<h3>mkdir</h3>
+<p><code>mkdir</code> makes a new folder <br> Usage: <code>mkdir foldername</code></p>
+<h3>mv</h3>
+<p><code>mv</code> moves a file into another directory <br> Usage: example.txt /example<code></code></p>
+<h3>nano</h3>
+<p><code>nano</code> is a simple text editor in a terminal <br> Usage: <code>nano example.txt</code></p>
+<h3>echo $PATH</h3>
+<p><code>PATH</code> is an environment variable what specifies where executable programs are located </p>
+<h3>pwd</h3>
+<p><code>pwd</code> prints the current working directory </p>
+
+<h3>cd</h3>
+<p><code>test</code></p>
+
 # Coding tips:
 
 <h2>1. Keep on going!</h2>
@@ -42,3 +63,7 @@ Here are a few coding resources and guidance to kickstart your coding journey!
 </p>
 <h2>3. Consistency is key</h2>
 <p>Make sure you are fitting in a bit of coding in everyday or week, you will learn coding quicker if you are consitent. </p>
+<h2>4. Start off using simple text editors</h2>
+<p>You shouldn't use IDE's (integrated development environments) when learning to code. <br>
+   Simple text editors like IDLE Python are good to get you started, you want to type everything manually so you get the hang of it then move on to IDE's!</p>
+
