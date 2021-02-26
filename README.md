@@ -1,5 +1,5 @@
 # Coding resources
-
+Here are a few coding resources and guidance to kickstart your coding journey!
 
 # Coding websites to learn / test skills:
 
@@ -12,8 +12,6 @@
 <li><a href="https://app.finxter.com/learn/computer/science/">Finxter</a></li>
 <li><a href="https://www.codingame.com/start">Codingame</a></li>
 <li><a href="https://codeforces.com/">Code Forces</a></li>
-
-
 
 # Coding Youtubers:
 
@@ -32,4 +30,15 @@
 <li><a href="https://www.youtube.com/channel/UCXgGY0wkgOzynnHvSEVmE3A">Hitesh Choudhary</a></li>
 <li><a href="https://www.youtube.com/user/derekbanas">Derek Banas</a></li>
 
+# Coding tips:
 
+<h2>1. Keep on going!</h2>
+<p>As with anything in life you will lose motivation at some points in your journey, it's important to keep going. <br>
+  You will be stuck sometimes, go at your own level and be the best you can be!!
+</p>
+<h2>2. Focus on yourself</h2>
+<p> Sometimes we are too focused on what others are doing, it's the same with coding, don't worry about anyone but yourself. <br>
+  In short: Just because someone is better than you at something, doesn't mean you should stop what you are doing. 
+</p>
+<h2>3. Consistency is key</h2>
+<p>Make sure you are fitting in a bit of coding in everyday or week, you will learn coding quicker if you are consitent. </p>
