@@ -1,16 +1,18 @@
-# learning-to-code
-Coding resources
+# Coding resources
+
 
 # Coding websites to learn / test skills:
-<a href="https://www.w3schools.com/">W3Schools</a>
-<a href="https://www.freecodecamp.org/">Free Code Camp</a>
-<a href="https://www.codewars.com/">Code wars</a>
-<a href="https://challenges.reply.com/tamtamy/home.action">Reply Challenges</a>
-<a href="https://coderbyte.com/">Coderbyte</a>
-<a href="https://edabit.com/">Edabit</a>
-<a href="https://app.finxter.com/learn/computer/science/">Finxter</a>
-<a href="https://www.codingame.com/start">Codingame</a>
-<a href="https://codeforces.com/">Code Forces</a>
+
+<li><a href="https://www.w3schools.com/">W3Schools</a></li>
+<li><a href="https://www.freecodecamp.org/">Free Code Camp</a></li>
+<li><a href="https://www.codewars.com/">Code wars</a></li>
+<li><a href="https://challenges.reply.com/tamtamy/home.action">Reply Challenges</a></li>
+<li><a href="https://coderbyte.com/">Coderbyte</a></li>
+<li><a href="https://edabit.com/">Edabit</a></li>
+<li><a href="https://app.finxter.com/learn/computer/science/">Finxter</a></li>
+<li><a href="https://www.codingame.com/start">Codingame</a></li>
+<li><a href="https://codeforces.com/">Code Forces</a></li>
+
 
 
 # Coding Youtubers:
