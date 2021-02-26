@@ -49,7 +49,7 @@ You are going to be using the command prompt a lot, here are a few useful comman
 <h3>cd</h3>
 <p><code>cd</code> switches into a directory <br> Usage: <code>cd /Desktop/example/</code></p>
 <h3>ls</h3>
-<p><code>ls</code> prints the current files in the current directory</p>
+<p><code>ls</code> prints the files in the current directory</p>
 <h3>mkdir</h3>
 <p><code>mkdir</code> makes a new folder <br> Usage: <code>mkdir foldername</code></p>
 <h3>mv</h3>
