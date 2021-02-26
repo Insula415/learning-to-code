@@ -1,6 +1,19 @@
 # Coding resources
 Here are a few coding resources and guidance to kickstart your coding journey!
 
+# Best coding languages to learn:
+<h3>1. Python</h3>
+<p>Python is an excellent language and you can do just about anything with it. <br> 
+  It is relatively easy to learn, powerful and versatile - making it a great choice for beginners.</p>
+<h3>2. HTML + CSS</h3>
+<p>HTML is used to create websites, and is the main structure of every website,
+  CSS styles the webpage. <br>These are very good languages to learn, and start your coding journey! 
+</p>
+<h3>3. JavaScript</h3>
+<p>JavaScript is a client-side language what is very useful and simply. It is not recommended that this is your first language to learn, 
+  but certainly is a great language to pickup if you are already familiar with another language.
+</p>
+
 # Coding websites to learn / test your skills:
 
 <li><a href="https://www.w3schools.com/">W3Schools</a></li>
@@ -47,9 +60,13 @@ You are going to be using the command prompt a lot, here are a few useful comman
 <p><code>PATH</code> is an environment variable what specifies where executable programs are located </p>
 <h3>pwd</h3>
 <p><code>pwd</code> prints the current working directory </p>
-
-<h3>cd</h3>
-<p><code>test</code></p>
+<h3>rm</h3>
+<p><code>rm</code> deletes files <br>Usage: <code>rm example.txt</code></p>
+<h3>rm -r</h3>
+<p><code>rm -r</code> deletes a directory and all of its child directories <br>Usage: <code>rm -r folder</code></p>
+<h3>touch</h3>
+<p><code>touch</code> creates a new file inside of the current directory <br>Usage: <code>touch example.txt</code></p>
+You can find some more useful commands <a href="https://www.codecademy.com/articles/command-line-commands">here</a>
 
 # Coding tips:
 
