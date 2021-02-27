@@ -53,7 +53,7 @@ You are going to be using the command prompt a lot, here are a few useful comman
 <h3>mkdir</h3>
 <p><code>mkdir</code> makes a new folder <br> Usage: <code>mkdir foldername</code></p>
 <h3>mv</h3>
-<p><code>mv</code> moves a file into another directory <br> Usage: example.txt /example<code></code></p>
+<p><code>mv</code> moves a file into another directory <br> Usage: <code>example.txt /example</code></p>
 <h3>nano</h3>
 <p><code>nano</code> is a simple text editor in a terminal <br> Usage: <code>nano example.txt</code></p>
 <h3>echo $PATH</h3>
