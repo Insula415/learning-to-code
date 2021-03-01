@@ -57,7 +57,7 @@ You are going to be using the command prompt a lot, here are a few useful comman
 <h3>nano</h3>
 <p><code>nano</code> is a simple text editor in a terminal <br> Usage: <code>nano example.txt</code></p>
 <h3>echo $PATH</h3>
-<p><code>PATH</code> is an environment variable what specifies where executable programs are located </p>
+<p><code>PATH</code> is an environment variable what specifies where executable programs are located. <br> This will show a list of directories what are environment variables.</p>
 <h3>pwd</h3>
 <p><code>pwd</code> prints the current working directory </p>
 <h3>rm</h3>
