@@ -43,6 +43,15 @@ Here are a few coding resources and guidance to kickstart your coding journey!
 <li><a href="https://www.youtube.com/channel/UCXgGY0wkgOzynnHvSEVmE3A">Hitesh Choudhary</a></li>
 <li><a href="https://www.youtube.com/user/derekbanas">Derek Banas</a></li>
 
+# Github repositories for learning to code:
+<li><a href="https://github.com/Asabeneh/30-Days-Of-Python">Python</a></li>
+<li><a href="https://github.com/AllThingsSmitty/css-protips">CSS</a></li>
+<li><a href="https://github.com/Asabeneh/30-Days-Of-JavaScript">JavaScript</a></li>
+<li><a href="https://github.com/Asabeneh/30-Days-Of-React">React</a></li>
+<li><a href="https://github.com/inancgumus/learngo">Go</a></li>
+<li><a href="https://github.com/basarat/typescript-book">TypeScript</a></li>
+<li><a href="https://github.com/codeguy/php-the-right-way">PHP</a></li>
+
 # Coding commands:
 You are going to be using the command prompt a lot, here are a few useful commands:
 
