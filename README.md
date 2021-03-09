@@ -7,11 +7,11 @@ Here are a few coding resources and guidance to kickstart your coding journey!
   It is relatively easy to learn, powerful and versatile - making it a great choice for beginners.</p>
 <h3>2. HTML + CSS</h3>
 <p>HTML is used to create websites, and is the main structure of every website,
-  CSS styles the webpage. <br>These are very good languages to learn, and start your coding journey! 
+  CSS styles the webpage. <br>These are very good languages to learn, and start your coding journey! <br>
+  <i>HTML and CSS aren't actually classed as coding languages, but they still count towards a great start with coding</i>
 </p>
 <h3>3. JavaScript</h3>
-<p>JavaScript is a client-side language what is very useful and simply. It is not recommended that this is your first language to learn, 
-  but certainly is a great language to pickup if you are already familiar with another language.
+<p>JavaScript is a client-side language what is very useful and simple. You should start with what's known as plain vanilla JavaScript. You can learn this after or even alongside HTML and CSS
 </p>
 
 # Coding websites to learn / test your skills:
